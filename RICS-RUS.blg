@@ -1,0 +1,29 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[1] Config.pm:315> INFO - Logfile is 'RICS-RUS.blg'
+[1111] biber-MSWIN32:330> INFO - === 
+[1532] Biber.pm:415> INFO - Reading 'RICS-RUS.bcf'
+[1870] Biber.pm:952> INFO - Found 39 citekeys in bib section 0
+[1916] Biber.pm:4334> INFO - Processing section 0
+[2097] Biber.pm:4523> INFO - Looking for bibtex format file 'ValuationStandards.bib' for section 0
+[2176] bibtex.pm:1682> INFO - LaTeX decoding ...
+[2391] bibtex.pm:1494> INFO - Found BibTeX data source 'ValuationStandards.bib'
+[2617] Utils.pm:395> WARN - Overwriting field 'year' with year value from field 'date' for entry 'RICS:RVNS-2017'
+[2618] Utils.pm:395> WARN - Overwriting field 'month' with month value from field 'date' for entry 'RICS:RVNS-2017'
+[2657] Utils.pm:395> WARN - year field '2013 -- 2018' in entry 'IPMS' is not an integer - this will probably not sort properly.
+[2867] Biber.pm:4523> INFO - Looking for bibtex format file 'RussianLaws.bib' for section 0
+[3007] bibtex.pm:1682> INFO - LaTeX decoding ...
+[3082] bibtex.pm:1494> INFO - Found BibTeX data source 'RussianLaws.bib'
+[3142] Biber.pm:4523> INFO - Looking for bibtex format file 'Murashev.bib' for section 0
+[3177] bibtex.pm:1682> INFO - LaTeX decoding ...
+[3236] bibtex.pm:1494> INFO - Found BibTeX data source 'Murashev.bib'
+[3259] Biber.pm:4523> INFO - Looking for bibtex format file 'LaTeX.bib' for section 0
+[3320] bibtex.pm:1682> INFO - LaTeX decoding ...
+[3435] bibtex.pm:1494> INFO - Found BibTeX data source 'LaTeX.bib'
+[3471] Utils.pm:395> WARN - I didn't find a database entry for 'IVS:IPS' (section 0)
+[3597] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3597] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3597] Biber.pm:4162> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'ru-RU'
+[3597] Biber.pm:4168> INFO - No sort tailoring available for locale 'ru-RU'
+[3867] bbl.pm:651> INFO - Writing 'RICS-RUS.bbl' with encoding 'UTF-8'
+[3906] bbl.pm:754> INFO - Output to RICS-RUS.bbl
+[3917] Biber.pm:128> INFO - WARNINGS: 4

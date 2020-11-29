@@ -1,0 +1,1445 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{FZ-149}{misc}{}
+      \list{language}{1}{%
+        {Russian}%
+      }
+      \list{location}{1}{%
+        {Russia, Moscow}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{7}
+      \field{title}{Федеральный Закон <<Об~информации, информационных технологиях и~о~защите информации}
+      \field{titleaddon}{149-ФЗ}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://docs.cntd.ru/document/901990051
+      \endverb
+      \verb{url}
+      \verb http://docs.cntd.ru/document/901990051
+      \endverb
+    \endentry
+    \entry{FAO:Tenure}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b575c8bfb750ec6f391bc356e26c1958}{%
+           family={Organization\bibnamedelimb of\bibnamedelima the\bibnamedelima United\bibnamedelima Nations},
+           familyi={O\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Food},
+           giveni={F\bibinitperiod},
+           prefix={and\bibnamedelima Agriculture},
+           prefixi={a\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b575c8bfb750ec6f391bc356e26c1958}
+      \strng{fullhash}{b575c8bfb750ec6f391bc356e26c1958}
+      \strng{bibnamehash}{b575c8bfb750ec6f391bc356e26c1958}
+      \strng{authorbibnamehash}{b575c8bfb750ec6f391bc356e26c1958}
+      \strng{authornamehash}{b575c8bfb750ec6f391bc356e26c1958}
+      \strng{authorfullhash}{b575c8bfb750ec6f391bc356e26c1958}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Responsible Governance of~Tenure of~land, fisheries, and~forests in~the~context of~national food security}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://www.fao.org/3/a-i2801e.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.fao.org/3/a-i2801e.pdf
+      \endverb
+      \keyw{FAO,UN}
+    \endentry
+    \entry{CC_BY-SA_4.0}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6a8d87dda413f26a638225f5f542943}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Creative},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{fullhash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{bibnamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authorbibnamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authornamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authorfullhash}{b6a8d87dda413f26a638225f5f542943}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Creative Commons Attribution-ShareAlike~4.0 International}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://creativecommons.org/licenses/by-sa/4.0/legalcode
+      \endverb
+      \verb{url}
+      \verb https://creativecommons.org/licenses/by-sa/4.0/legalcode
+      \endverb
+      \keyw{Creative Commons,License}
+    \endentry
+    \entry{CC_BY-SA_4.0-RUS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6a8d87dda413f26a638225f5f542943}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Creative},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{fullhash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{bibnamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authorbibnamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authornamehash}{b6a8d87dda413f26a638225f5f542943}
+      \strng{authorfullhash}{b6a8d87dda413f26a638225f5f542943}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Creative Commons Attribution-ShareAlike~4.0 International RUS}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru
+      \endverb
+      \verb{url}
+      \verb https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru
+      \endverb
+      \keyw{Creative Commons,License}
+    \endentry
+    \entry{RICS:RVGS-2014}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Red Book: RICS Valuation --- Professional Standards global 2014}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.isurv.com/downloads/download/1830/red_book_rics_valuation_-_professional_standards_global_2014_archived
+      \endverb
+      \verb{url}
+      \verb https://www.isurv.com/downloads/download/1830/red_book_rics_valuation_-_professional_standards_global_2014_archived
+      \endverb
+      \keyw{RICS,Valuation Standards}
+    \endentry
+    \entry{RICS:Expert-Witnesses}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{4}
+      \field{subtitle}{4th edition}
+      \field{title}{Surveyors acting as~expert witnesses}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{version}{4}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/dispute-resolution/surveyors-acting-as-expert-witnesses-4th-edition-rics.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/dispute-resolution/surveyors-acting-as-expert-witnesses-4th-edition-rics.pdf
+      \endverb
+      \keyw{RICS,Expert witnesses}
+    \endentry
+    \entry{MSFO-13}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ccbb495fddf52bf77cc702d15e62b7ab}{%
+           family={России},
+           familyi={Р\bibinitperiod},
+           given={Министерство},
+           giveni={М\bibinitperiod},
+           prefix={финансов},
+           prefixi={ф\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Russian}%
+      }
+      \list{location}{1}{%
+        {Russia, Moscow}%
+      }
+      \list{organization}{1}{%
+        {Минфин России}%
+      }
+      \strng{namehash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \strng{fullhash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \strng{bibnamehash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \strng{authorbibnamehash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \strng{authornamehash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \strng{authorfullhash}{ccbb495fddf52bf77cc702d15e62b7ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{12}
+      \field{title}{Международный стандарт финансовой отчётности~(IFRS)~13 <<Оценка справедливой стоимости>>}
+      \field{titleaddon}{с~изменениями на~11 июля 2016~г.}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://docs.cntd.ru/document/420334241
+      \endverb
+      \verb{url}
+      \verb http://docs.cntd.ru/document/420334241
+      \endverb
+      \keyw{МСФО,IFRS}
+    \endentry
+    \entry{MSFO-all}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=131959abebe029d2e6fbc7fd81964180}{%
+           family={Российской\bibnamedelima Федерации},
+           familyi={Р\bibinitperiod\bibinitdelim Ф\bibinitperiod},
+           given={Министерство},
+           giveni={М\bibinitperiod},
+           prefix={финансов},
+           prefixi={ф\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Russian}%
+      }
+      \list{location}{1}{%
+        {Russia, Moscow}%
+      }
+      \list{organization}{1}{%
+        {Министерство финансов Российской Федерации}%
+      }
+      \strng{namehash}{131959abebe029d2e6fbc7fd81964180}
+      \strng{fullhash}{131959abebe029d2e6fbc7fd81964180}
+      \strng{bibnamehash}{131959abebe029d2e6fbc7fd81964180}
+      \strng{authorbibnamehash}{131959abebe029d2e6fbc7fd81964180}
+      \strng{authornamehash}{131959abebe029d2e6fbc7fd81964180}
+      \strng{authorfullhash}{131959abebe029d2e6fbc7fd81964180}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{12}
+      \field{subtitle}{C~изменениями на~11~июля 2016~г.}
+      \field{title}{О~введении Международных стандартов финансовой отчётности и~Разъяснений Международных стандартов финансовой отчётности в~действие на~территории Российской Федерации и~о~признании утратившими силу некоторых приказов (отдельных положений приказов) Министерства финансов Российской Федерации}
+      \field{titleaddon}{Приказ от~28 декабря 2015~г. №~217н}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{version}{2016-07-11}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://docs.cntd.ru/document/420332842/
+      \endverb
+      \verb{url}
+      \verb http://docs.cntd.ru/document/420332842/
+      \endverb
+      \keyw{MSFO}
+    \endentry
+    \entry{IES-2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=26caa518545096082e7608b9ac6f45e1}{%
+           family={(IESC)},
+           familyi={(\bibinitperiod},
+           given={International\bibnamedelimb Ethics\bibnamedelimb Standards\bibnamedelima Coalition},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{26caa518545096082e7608b9ac6f45e1}
+      \strng{fullhash}{26caa518545096082e7608b9ac6f45e1}
+      \strng{bibnamehash}{26caa518545096082e7608b9ac6f45e1}
+      \strng{authorbibnamehash}{26caa518545096082e7608b9ac6f45e1}
+      \strng{authornamehash}{26caa518545096082e7608b9ac6f45e1}
+      \strng{authorfullhash}{26caa518545096082e7608b9ac6f45e1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{International Ethics Standards}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/standards-of-conduct/international-ethics-standards-ies-rics.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/standards-of-conduct/international-ethics-standards-ies-rics.pdf
+      \endverb
+      \keyw{Ethics Standards}
+    \endentry
+    \entry{IFRS-13}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=028b1364426e4335ce3f465600d31043}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={The\bibnamedelima IFRS},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {The IFRS Foundation}%
+      }
+      \strng{namehash}{028b1364426e4335ce3f465600d31043}
+      \strng{fullhash}{028b1364426e4335ce3f465600d31043}
+      \strng{bibnamehash}{028b1364426e4335ce3f465600d31043}
+      \strng{authorbibnamehash}{028b1364426e4335ce3f465600d31043}
+      \strng{authornamehash}{028b1364426e4335ce3f465600d31043}
+      \strng{authorfullhash}{028b1364426e4335ce3f465600d31043}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{month}{1}
+      \field{title}{IFRS 13 Fair Value Measurement}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://eifrs.ifrs.org/eifrs/bnstandards/en/IFRS13.pdf
+      \endverb
+      \verb{url}
+      \verb http://eifrs.ifrs.org/eifrs/bnstandards/en/IFRS13.pdf
+      \endverb
+      \keyw{IFRS}
+    \endentry
+    \entry{RICS:Real&Brokerage}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1ba540fb0559bdb028532a77a2fe318d}{%
+           family={Surveyors},
+           familyi={S\bibinitperiod},
+           given={Royal\bibnamedelima Institute},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{1ba540fb0559bdb028532a77a2fe318d}
+      \strng{fullhash}{1ba540fb0559bdb028532a77a2fe318d}
+      \strng{bibnamehash}{1ba540fb0559bdb028532a77a2fe318d}
+      \strng{authorbibnamehash}{1ba540fb0559bdb028532a77a2fe318d}
+      \strng{authornamehash}{1ba540fb0559bdb028532a77a2fe318d}
+      \strng{authorfullhash}{1ba540fb0559bdb028532a77a2fe318d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{8}
+      \field{title}{Real estate agency and~brokerage}
+      \field{titleaddon}{3rd Edition}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{version}{3}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/real-estate/real-estate-and-agency-brokerage-3rd-edition-rics.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/real-estate/real-estate-and-agency-brokerage-3rd-edition-rics.pdf
+      \endverb
+    \endentry
+    \entry{RICS:Rule:Conflicts-of-interest}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {Royal Institute of~Chartered Surveyors (RICS)}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{12}
+      \field{subtitle}{1st edition}
+      \field{title}{Conflicts of~interest}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{version}{1}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/standards-of-conduct/conflicts-of-interest/conflicts_of_interest_global_1st-edition_dec_2017_revisions_pgguidance_2017_rw.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/standards-of-conduct/conflicts-of-interest/conflicts_of_interest_global_1st-edition_dec_2017_revisions_pgguidance_2017_rw.pdf
+      \endverb
+      \keyw{RICS,Conflict of interests}
+    \endentry
+    \entry{RICS:PM}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{1}
+      \field{subtitle}{2nd edition, January 2018}
+      \field{title}{RICS property measurement}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{version}{2nd}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/real-estate/rics-property-measurement/rics-property-measurement-2nd-edition-rics.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/real-estate/rics-property-measurement/rics-property-measurement-2nd-edition-rics.pdf
+      \endverb
+      \keyw{RICS,Property measurement}
+    \endentry
+    \entry{RICS:Valuer-Assessment}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{5}
+      \field{title}{RICS Valuer Registration Assessment}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/eu/surveying-profession/career-progression/accreditations/valuer-registration-assessment/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/eu/surveying-profession/career-progression/accreditations/valuer-registration-assessment/
+      \endverb
+      \keyw{RICS}
+    \endentry
+    \entry{IVS-2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=398c4da07dd585850be88d0cce9a0730}{%
+           family={Council},
+           familyi={C\bibinitperiod},
+           given={International\bibnamedelimb Valuation\bibnamedelima Standards},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{398c4da07dd585850be88d0cce9a0730}
+      \strng{fullhash}{398c4da07dd585850be88d0cce9a0730}
+      \strng{bibnamehash}{398c4da07dd585850be88d0cce9a0730}
+      \strng{authorbibnamehash}{398c4da07dd585850be88d0cce9a0730}
+      \strng{authornamehash}{398c4da07dd585850be88d0cce9a0730}
+      \strng{authorfullhash}{398c4da07dd585850be88d0cce9a0730}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{International Valuation Standards}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/international-valuation-standards-rics2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/international-valuation-standards-rics2.pdf
+      \endverb
+      \keyw{IVS,Valuation Standards}
+    \endentry
+    \entry{RICS:Bye-Laws}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{3}
+      \field{title}{Bye-Laws of~The~Royal Institution of~Chartered Surveyors}
+      \field{titleaddon}{updated at~Feb 2020}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/governance/bye-laws/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/governance/bye-laws/
+      \endverb
+      \keyw{RICS,By-laws}
+    \endentry
+    \entry{RICS:RVNS-2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{1}
+      \field{title}{RICS Valuation --- Global Standards 2017: UK national supplement}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/red-book-uk-supplement-rics.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/red-book-uk-supplement-rics.pdf
+      \endverb
+      \keyw{RICS,Valuation Standards}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'RICS:RVNS-2017'}
+      \warn{\item Overwriting field 'month' with month value from field 'date' for entry 'RICS:RVNS-2017'}
+    \endentry
+    \entry{RICS:RVGS-2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{11}
+      \field{title}{RICS Valuation –-- Global Standards}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/rics-valuation--global-standards-jan.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/rics-valuation--global-standards-jan.pdf
+      \endverb
+      \keyw{RICS,Valuation Standards}
+    \endentry
+    \entry{IPMSC:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ab986453f43a2955ff259e2c31825c27}{%
+           family={(IPMSC)},
+           familyi={(\bibinitperiod},
+           given={The\bibnamedelimb International\bibnamedelimb Property\bibnamedelimb Measurement\bibnamedelimb Standards\bibnamedelima Coalition},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {The International Property Measurement Standards Coalition (IPMSC)}%
+      }
+      \strng{namehash}{ab986453f43a2955ff259e2c31825c27}
+      \strng{fullhash}{ab986453f43a2955ff259e2c31825c27}
+      \strng{bibnamehash}{ab986453f43a2955ff259e2c31825c27}
+      \strng{authorbibnamehash}{ab986453f43a2955ff259e2c31825c27}
+      \strng{authornamehash}{ab986453f43a2955ff259e2c31825c27}
+      \strng{authorfullhash}{ab986453f43a2955ff259e2c31825c27}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{6}
+      \field{title}{The International Property Measurement Standards Coalition (IPMSC) official site}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ipmsc.org/
+      \endverb
+      \verb{url}
+      \verb https://ipmsc.org/
+      \endverb
+      \keyw{IPMSC,IPMS}
+    \endentry
+    \entry{IESC-site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f498616599568ad939299ca43180cfd6}{%
+           family={IESC},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{f498616599568ad939299ca43180cfd6}
+      \strng{fullhash}{f498616599568ad939299ca43180cfd6}
+      \strng{bibnamehash}{f498616599568ad939299ca43180cfd6}
+      \strng{authorbibnamehash}{f498616599568ad939299ca43180cfd6}
+      \strng{authornamehash}{f498616599568ad939299ca43180cfd6}
+      \strng{authorfullhash}{f498616599568ad939299ca43180cfd6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{6}
+      \field{title}{IES Coalition site}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ies-coalition.org/
+      \endverb
+      \verb{url}
+      \verb https://ies-coalition.org/
+      \endverb
+      \keyw{IES}
+    \endentry
+    \entry{RVGS-Rus-TeX-source}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2431abe948eb9f4f03da5b84babebd9a}{%
+           family={Murashev},
+           familyi={M\bibinitperiod},
+           given={Kirill\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {TeX}%
+      }
+      \strng{namehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{fullhash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{bibnamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authorbibnamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authornamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authorfullhash}{2431abe948eb9f4f03da5b84babebd9a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{5}
+      \field{title}{RICS Valuation "---~Global Standrards 2020. Russian translation.}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/Kirill-Murashev/RICS-RUS.git
+      \endverb
+      \verb{url}
+      \verb https://github.com/Kirill-Murashev/RICS-RUS.git
+      \endverb
+    \endentry
+    \entry{RVGS-Rus-TeX-source-res}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2431abe948eb9f4f03da5b84babebd9a}{%
+           family={Murashev},
+           familyi={M\bibinitperiod},
+           given={Kirill\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {TeX}%
+      }
+      \strng{namehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{fullhash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{bibnamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authorbibnamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authornamehash}{2431abe948eb9f4f03da5b84babebd9a}
+      \strng{authorfullhash}{2431abe948eb9f4f03da5b84babebd9a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{5}
+      \field{title}{RICS Valuation "---~Global Standrards 2020. Russian translation.}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://web.tresorit.com/l/9mhlt#m96XUKzhHlLKRlp88f4qqw
+      \endverb
+      \verb{url}
+      \verb https://web.tresorit.com/l/9mhlt#m96XUKzhHlLKRlp88f4qqw
+      \endverb
+    \endentry
+    \entry{RICS:ethics-page}{online}{}
+      \name{author}{1}{}{%
+        {{hash=12f68b83dcfeb5fd095672c54ec122f1}{%
+           family={Surveyors},
+           familyi={S\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \strng{fullhash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \strng{bibnamehash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \strng{authorbibnamehash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \strng{authornamehash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \strng{authorfullhash}{12f68b83dcfeb5fd095672c54ec122f1}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{7}
+      \field{title}{RICS. Ethics.}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/eu/upholding-professional-standards/standards-of-conduct/ethics/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/eu/upholding-professional-standards/standards-of-conduct/ethics/
+      \endverb
+      \keyw{RICS,ethics}
+    \endentry
+    \entry{RICS:Conduct-Firms}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Rules of~Conduct for~Firms}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/regulation/rules-of-conduct-for-firms_2020.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/regulation/rules-of-conduct-for-firms_2020.pdf
+      \endverb
+      \keyw{RICS,Rules of Conduct}
+    \endentry
+    \entry{RICS:Conduct-Members}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Rules of~Conduct for~Members}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/regulation/rules-of-conduct-for-members_2020.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/regulation/rules-of-conduct-for-members_2020.pdf
+      \endverb
+      \keyw{RICS,Rules of Conduct}
+    \endentry
+    \entry{IVSC:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=75dfab55341e58496ff56690a4a1d115}{%
+           family={(IVSC)},
+           familyi={(\bibinitperiod},
+           given={International\bibnamedelimb Valuation\bibnamedelimb Standards\bibnamedelima Council},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{75dfab55341e58496ff56690a4a1d115}
+      \strng{fullhash}{75dfab55341e58496ff56690a4a1d115}
+      \strng{bibnamehash}{75dfab55341e58496ff56690a4a1d115}
+      \strng{authorbibnamehash}{75dfab55341e58496ff56690a4a1d115}
+      \strng{authornamehash}{75dfab55341e58496ff56690a4a1d115}
+      \strng{authorfullhash}{75dfab55341e58496ff56690a4a1d115}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IVSC official site}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ivsc.org/
+      \endverb
+      \verb{url}
+      \verb https://www.ivsc.org/
+      \endverb
+      \keyw{RICS Regulation,RICS}
+    \endentry
+    \entry{IFRS-all}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=00555ed2aed2c11e8980dea54c8a18fb}{%
+           family={Board},
+           familyi={B\bibinitperiod},
+           given={International\bibnamedelimb Accounting\bibnamedelima Standards},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {UK, London}%
+      }
+      \list{organization}{1}{%
+        {The IFRS Foundation}%
+      }
+      \strng{namehash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \strng{fullhash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \strng{bibnamehash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \strng{authorbibnamehash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \strng{authornamehash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \strng{authorfullhash}{00555ed2aed2c11e8980dea54c8a18fb}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International Financial Reporting Standard}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ifrs.org/issued-standards/list-of-standards/
+      \endverb
+      \verb{url}
+      \verb https://www.ifrs.org/issued-standards/list-of-standards/
+      \endverb
+      \keyw{IFRS}
+    \endentry
+    \entry{Key_risks}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8f8250e88f5c2b9ceba3264eb79a0fe6}{%
+           family={RICS},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \strng{fullhash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \strng{bibnamehash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \strng{authorbibnamehash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \strng{authornamehash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \strng{authorfullhash}{8f8250e88f5c2b9ceba3264eb79a0fe6}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key risks and liabilities in valuation}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/uk/upholding-professional-standards/regulation/regulatory-support/professional-indemnity/pii-and-valuation-guidance/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/uk/upholding-professional-standards/regulation/regulatory-support/professional-indemnity/pii-and-valuation-guidance/
+      \endverb
+    \endentry
+    \entry{RICS:Application-in-RF}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{11}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Application of~RICS Valuation Professional Standards in~Russian Federation}
+      \verb{urlraw}
+      \verb https://www.isurv.com/site/scripts/download_info.php?downloadID=2009
+      \endverb
+      \verb{url}
+      \verb https://www.isurv.com/site/scripts/download_info.php?downloadID=2009
+      \endverb
+      \keyw{RICS National Standards}
+    \endentry
+    \entry{RICS:National-Standards}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{12}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RICS national or~jurisdictional valuation standards}
+      \verb{urlraw}
+      \verb https://www.isurv.com/info/1342/rics_national_or_jurisdictional_valuation_standards
+      \endverb
+      \verb{url}
+      \verb https://www.isurv.com/info/1342/rics_national_or_jurisdictional_valuation_standards
+      \endverb
+      \keyw{RICS National Standards}
+    \endentry
+    \entry{RICS:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{13}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RICS official site}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/eu/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/eu/
+      \endverb
+      \keyw{RICS Regulation,RICS}
+    \endentry
+    \entry{RICS:Registration}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{14}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RICS Registration}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/eu/upholding-professional-standards/regulation/valuer-registration/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/eu/upholding-professional-standards/regulation/valuer-registration/
+      \endverb
+      \keyw{RICS}
+    \endentry
+    \entry{RICS:Regulation}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fda90b6ca0aa13e7bf533db667656f0}{%
+           family={Surveyors\bibnamedelima (RICS)},
+           familyi={S\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Royal\bibnamedelima Institution},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={of\bibnamedelima Chartered},
+           prefixi={o\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {RICS}%
+      }
+      \strng{namehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{fullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{bibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorbibnamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authornamehash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \strng{authorfullhash}{0fda90b6ca0aa13e7bf533db667656f0}
+      \field{extraname}{15}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RICS Regulation}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rics.org/eu/upholding-professional-standards/regulation/
+      \endverb
+      \verb{url}
+      \verb https://www.rics.org/eu/upholding-professional-standards/regulation/
+      \endverb
+      \keyw{RICS}
+    \endentry
+    \entry{TeX:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fd76ee7fc1c2f551e6dd204afd0114c3}{%
+           family={team},
+           familyi={t\bibinitperiod},
+           given={CTAN},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {CTAN Team}%
+      }
+      \strng{namehash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \strng{fullhash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \strng{bibnamehash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \strng{authorbibnamehash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \strng{authornamehash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \strng{authorfullhash}{fd76ee7fc1c2f551e6dd204afd0114c3}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TeX official site}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ctan.org/
+      \endverb
+      \verb{url}
+      \verb https://www.ctan.org/
+      \endverb
+      \keyw{TeX}
+    \endentry
+    \entry{LaTeX:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1b731f104f46b19677578dfacc91412e}{%
+           family={team},
+           familyi={t\bibinitperiod},
+           given={LaTeX},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1b731f104f46b19677578dfacc91412e}
+      \strng{fullhash}{1b731f104f46b19677578dfacc91412e}
+      \strng{bibnamehash}{1b731f104f46b19677578dfacc91412e}
+      \strng{authorbibnamehash}{1b731f104f46b19677578dfacc91412e}
+      \strng{authornamehash}{1b731f104f46b19677578dfacc91412e}
+      \strng{authorfullhash}{1b731f104f46b19677578dfacc91412e}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LaTeX official site}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.latex-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.latex-project.org/
+      \endverb
+    \endentry
+    \entry{TeXLive:site}{online}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labeltitlesource}{title}
+      \field{title}{TeXLive official site}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tug.org/texlive/
+      \endverb
+      \verb{url}
+      \verb https://www.tug.org/texlive/
+      \endverb
+    \endentry
+    \entry{TeXstudio:site}{online}{}
+      \name{author}{1}{}{%
+        {{hash=45afe6a056aeb2356894d8f91643f0a0}{%
+           family={Zander},
+           familyi={Z\bibinitperiod},
+           given={Benito},
+           giveni={B\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{45afe6a056aeb2356894d8f91643f0a0}
+      \strng{fullhash}{45afe6a056aeb2356894d8f91643f0a0}
+      \strng{bibnamehash}{45afe6a056aeb2356894d8f91643f0a0}
+      \strng{authorbibnamehash}{45afe6a056aeb2356894d8f91643f0a0}
+      \strng{authornamehash}{45afe6a056aeb2356894d8f91643f0a0}
+      \strng{authorfullhash}{45afe6a056aeb2356894d8f91643f0a0}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TeXstusio official site}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.texstudio.org/
+      \endverb
+      \verb{url}
+      \verb https://www.texstudio.org/
+      \endverb
+    \endentry
+    \entry{IPMS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6b19df94f11ffb515131350c76b4a424}{%
+           family={Coalition},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima International\bibnamedelimb Property\bibnamedelimb Measurement\bibnamedelima Standards},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b19df94f11ffb515131350c76b4a424}
+      \strng{fullhash}{6b19df94f11ffb515131350c76b4a424}
+      \strng{bibnamehash}{6b19df94f11ffb515131350c76b4a424}
+      \strng{authorbibnamehash}{6b19df94f11ffb515131350c76b4a424}
+      \strng{authornamehash}{6b19df94f11ffb515131350c76b4a424}
+      \strng{authorfullhash}{6b19df94f11ffb515131350c76b4a424}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International Property Measurement Standards}
+      \field{year}{2013 -- 2018}
+      \verb{urlraw}
+      \verb https://ipmsc.org/standards/
+      \endverb
+      \verb{url}
+      \verb https://ipmsc.org/standards/
+      \endverb
+      \keyw{Property Measurement}
+    \endentry
+  \enddatalist
+  \missing{IVS:IPS}
+\endrefsection
+\endinput
+
